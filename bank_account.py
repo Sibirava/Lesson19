@@ -9,6 +9,7 @@ class BankAccount:
     # def set_valid(self, valid):
     #     self._valid = valid
 
+    # public, protected _, private __
     def get_owner(self):
         return self._owner
 
